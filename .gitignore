@@ -1,0 +1,8 @@
+# credenciais (nunca enviar)
+.streamlit/secrets.toml
+
+# arquivos gerados pelo Python
+__pycache__/
+
+# ambiente virtual
+.venv/
