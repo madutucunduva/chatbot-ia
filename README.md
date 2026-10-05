@@ -2,6 +2,8 @@
 
 Chatbot com inteligência artificial no estilo do ChatGPT, desenvolvido em Python com Streamlit e integrado à API do Google Gemini.
 
+   🔗 **[Testar o chatbot online]([https://seu-link.streamlit.app](https://chatbot-ia-md.streamlit.app/))**
+   
 Projeto desenvolvido a partir do **Intensivão de Python** da [Hashtag Treinamentos](https://www.hashtagtreinamentos.com/) e aprimorado por mim após o evento.
 
 ## ✨ Funcionalidades
